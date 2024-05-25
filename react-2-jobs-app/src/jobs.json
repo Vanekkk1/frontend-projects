@@ -1,0 +1,88 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Senior React Developerrefref",
+      "type": "Full-Time",
+      "location": "Boston, MA",
+      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular.",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@teksolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "6",
+      "title": "React Native Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a Front-End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
+      "location": "Portland, OR",
+      "salary": "$100K - $110K",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
+        "contactEmail": "contact@ipsumlorem.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "644c",
+      "title": "React Coolest Dev",
+      "type": "Full-Time",
+      "location": "wef",
+      "description": "wef",
+      "salary": "Under $50K",
+      "company": {
+        "name": "wef",
+        "description": "wef",
+        "contactEmail": "wf3@tmail.c",
+        "contactPhone": "wef"
+      }
+    },
+    {
+      "id": "b6af",
+      "title": "4ftrv",
+      "type": "Full-Time",
+      "location": "ewd",
+      "description": "rvtrtvrt",
+      "salary": "Under $50K",
+      "company": {
+        "name": "wef",
+        "description": "wef",
+        "contactEmail": "ewf@gmail.com",
+        "contactPhone": "wef"
+      }
+    },
+    {
+      "id": "4261",
+      "title": "wef",
+      "type": "Internship",
+      "location": "ewf",
+      "description": "wef",
+      "salary": "Under $50K",
+      "company": {
+        "name": "ewf",
+        "description": "wef",
+        "contactEmail": "wef@wef.com",
+        "contactPhone": "ewf"
+      }
+    },
+    {
+      "id": "3abe",
+      "title": "fever",
+      "type": "Full-Time",
+      "location": "erv",
+      "description": "rve",
+      "salary": "Under $50K",
+      "company": {
+        "name": "erv",
+        "description": "erv",
+        "contactEmail": "erv@f.com",
+        "contactPhone": "erf"
+      }
+    }
+  ]
+}
