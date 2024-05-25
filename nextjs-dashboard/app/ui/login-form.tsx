@@ -1,3 +1,5 @@
+'use client';
+
 import { lusitana } from '@/app/ui/fonts';
 import {
   AtSymbolIcon,
@@ -18,6 +20,10 @@ export default function LoginForm() {
         <h1 className={`${lusitana.className} mb-3 text-2xl`}>
           Please log in to continue.
         </h1>
+        <h2 className="text-sm text-gray-500">
+          Email: user@nextmail.com,
+          Password: 123456
+        </h2>
         <div className="w-full">
           <div>
             <label
